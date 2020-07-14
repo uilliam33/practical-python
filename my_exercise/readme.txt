@@ -1,1 +1,0 @@
-my python exercises in this folder
